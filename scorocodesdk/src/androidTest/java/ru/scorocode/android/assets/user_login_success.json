@@ -1,0 +1,11 @@
+{
+  "error": false,
+  "result": {
+    "sessionId": "124",
+    "user": {
+      "username": "Andrey",
+      "email": "andrey@examble.ru",
+      "passowrd": "hWasFkja12"
+    }
+  }
+}

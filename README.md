@@ -1,1 +1,0 @@
-# scorocode-SDK-java
